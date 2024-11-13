@@ -1,0 +1,11 @@
+# Ignorar el archivo de configuración local
+configuracion_local.sh
+
+# Ignorar la carpeta "archivos_personales" y todo su contenido
+archivos_personales/
+
+# Ignorar todos los archivos de Photoshop (.psd)
+*.psd
+
+# Ignorar todos los archivos de Gimp (.xcf)
+*.xcf
