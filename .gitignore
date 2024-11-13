@@ -2,7 +2,7 @@
 configuracion_local.sh
 
 # Ignorar la carpeta "archivos_privados" y todo su contenido
-archivos_privados/
+#archivos_privados/
 
 # Ignorar todos los archivos de Photoshop (.psd)
 *.psd
